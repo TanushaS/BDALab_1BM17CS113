@@ -1,4 +1,3 @@
-//1st part
 use Database
 
 db.createCollection('Student')
